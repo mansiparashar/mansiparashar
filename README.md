@@ -6,12 +6,14 @@
 <br>
   
 <div align="center">
+  
 ![](https://img.shields.io/badge/-Web%20Development-green)
 ![](https://img.shields.io/badge/-Data%20Science-blue)
 ![](https://img.shields.io/badge/-C++%20programming-blueviolet)
 ![](https://img.shields.io/badge/-Content%20Writing-red)
-</div>
 
+</div>
+<br>
 - 🔭 **I’m currently working on** Artificial Intelligence backed Web Applications.
 - 🌱 **I’m currently learning** React, NodeJs.
 - 👯 **I’m looking to collaborate on** Machine Learning,Computer Vision,Data Analytics.
