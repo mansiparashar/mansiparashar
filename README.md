@@ -22,4 +22,5 @@
 - 📫 **How to reach me**: <a href="https://www.linkedin.com/in/mansi-parashar-4bb713173/">LinkedIn.
 
 <br>
-![stats](https://github-readme-stats.vercel.app/api?username=mansiparashar&show_icons=true&theme=dark)
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansiparashar&show_icons=true&theme=dark&include_all_commits=true" alt="Mansi's github stats" />
+
