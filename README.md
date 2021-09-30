@@ -1,7 +1,7 @@
 ![Home](https://github.com/mansiparashar/mansiparashar/blob/master/mansi.png)
 
 <div align="center"><h3>Hi 👋 Mansi here:ok_woman:</div>
-<div align="center">I'm a 3rd year student of Computer Science and Engineering and an <b>Incoming SDE Intern at Royal Bank of Scotland</b>. Fascinated by the applications of AI, I am currently pursuing research work in the field of Computer Vision and acting as a Teaching Assistant for DBMS. In my free time, you will find me curled up with a book. Hit me up for collaborations,competitions and content writing(copywriting). 
+<div align="center">I'm a 3rd year student of Computer Science and Engineering and an <b>Incoming SDE at Royal Bank of Scotland</b>. Fascinated by the applications of AI, I am currently pursuing research work in the field of Computer Vision and acting as a Teaching Assistant for DBMS. In my free time, you will find me curled up with a book. Hit me up for collaborations,competitions and content writing(copywriting). 
   <br><br>
   Check out my portfolio :  <a href="https://mansiparashar.github.io/">mansiparashar.github.io</a>
 </div>
@@ -18,7 +18,7 @@
 <br>
 
 - 🔭 **I’m currently working on** Artificial Intelligence backed Web Applications.
-- 🌱 **I’m currently learning** React, NodeJs.
+- 🌱 **I’m currently learning** Informatica.
 - 👯 **I’m looking to collaborate on** Machine Learning,Computer Vision,Data Analytics.
 - 💬 **Ask me about** Artificial Intelligence,Copywriting, Literary works, Philosophy.
 - 📫 **How to reach me**: <a href="https://www.linkedin.com/in/mansi-parashar-4bb713173/">LinkedIn.
